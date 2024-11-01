@@ -1,0 +1,58 @@
+# Copyright (C) 2018 WPBlocks
+# This file is distributed under the same license as the WPBlocks package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPBlocks\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wpblocks.php:57
+msgid "WPBlocks was deactivated because class WPBlocks already exists."
+msgstr ""
+
+#: inc/class-settings.php:44, inc/class-settings.php:197
+msgid "WPBlocks Settings"
+msgstr ""
+
+#: inc/class-settings.php:45
+msgid "WPBlocks"
+msgstr ""
+
+#: inc/class-settings.php:65
+msgid "Info Box"
+msgstr ""
+
+#: inc/class-settings.php:66
+msgid "Enable Info Box block"
+msgstr ""
+
+#: inc/class-settings.php:72
+msgid "Empty Space"
+msgstr ""
+
+#: inc/class-settings.php:73
+msgid "Enable Empty Space block"
+msgstr ""
+
+#: inc/class-settings.php:79
+msgid "Social Icons"
+msgstr ""
+
+#: inc/class-settings.php:80
+msgid "Enable Social Icons block"
+msgstr ""
+
+#: inc/class-settings.php:198
+msgid "WPBlocks adds additional blocks to the WordPress Gutenberg editor.<br/>Here you can manage which blocks are added:"
+msgstr ""
+
+#: inc/class-settings.php:224
+msgid "Save Changes"
+msgstr ""
